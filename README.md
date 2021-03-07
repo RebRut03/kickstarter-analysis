@@ -8,6 +8,7 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+![image_name](path/to/image_name.png)
 
 ### Analysis of Outcomes Based on Goals
 
