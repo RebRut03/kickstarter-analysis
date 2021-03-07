@@ -9,11 +9,13 @@
 
 ### Analysis of Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
-For further details, please see full analysis source spreadsheet 
+For further details, please see full analysis source spreadsheet. 
 [Kickstarter_Challenge](Kickstarter_Challenge.zip)
 
 ### Analysis of Outcomes Based on Goals
 ![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
+For further details, please see full analysis source spreadsheet. 
+[Kickstarter_Challenge](Kickstarter_Challenge.zip)
 
 ### Challenges and Difficulties Encountered
 
