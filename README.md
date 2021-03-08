@@ -2,21 +2,27 @@
 
 ## **Overview of Project**
 
-- ### Purpose - The purpose of this project is to analyze crowdfunding campaign data for an emerging playwright Louise. The goal of  this project is for Louise to gain a better understanding of different campaigns’ success rates in relation to their launch dates and their funding goals in order for her to make an informed decision on her next steps.  Specifically, for this portion of the project, I will compare how successful theater campaigns were based on their launch dates, and I will also compare how play campaigns faired based on their associated funding goals.
+- ### Purpose - The purpose of this project is to analyze crowdfunding campaign data for an emerging playwright Louise. The goal of  this project is for Louise to gain a better understanding of different campaigns’ success rates in relation to their launch dates and their funding goals in order for her to make an informed decision on her next steps.  In this report, I will focus on how successful theater campaigns were based on their launch dates, and I will also compare how play campaigns fared based on their associated funding goals.
 
 ## Analysis and Challenges
 
-### Analysis of Outcomes Based on Launch Date
+### Analysis of Theater Campaign Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
+
+In the Theater
+
 For further details, please see full analysis source spreadsheet. 
 [Kickstarter_Challenge](Kickstarter_Challenge.zip)
 
-### Analysis of Outcomes Based on Goals
+### Analysis of Play Campaign Outcomes Based on Goals
 ![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
+
+ 
 For further details, please see full analysis source spreadsheet. 
 [Kickstarter_Challenge](Kickstarter_Challenge.zip)
 
 ### Challenges and Difficulties Encountered
+
 
 ## Results
 
@@ -27,6 +33,7 @@ For further details, please see full analysis source spreadsheet.
 
 
 - What can you conclude about the Outcomes based on Goals?
+-   It appears that the lower monetary goals between Play campaigns with a goal of less than $1,000 were 75% successful.  Play campaigns with a goal between $1000 and $4,999 were 72% successful.  Also, of note,
 
 - What are some limitations of this dataset?
 
