@@ -27,9 +27,9 @@ For further details, please see full analysis source spreadsheet.
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-  1. It is recommended to launch theater campaigns in May and June because these are the highest success rates at 67% and 65% respectively. 
-  2. December 47% shows to be the highest failure rate followed closely by October 43% so it is not suggested to launch campaigns in those months.  
-  3. The cancellations are relatively low comparatively speaking, but the highest cancellation month is January at 7%.
+   - It is recommended to launch theater campaigns in May and June because these are the highest success rates at 67% and 65% respectively. 
+   - December 47% shows to be the highest failure rate followed closely by October 43% so it is not suggested to launch campaigns in those months.  
+   - The cancellations are relatively low comparatively speaking, but the highest cancellation month is January at 7%.
 
 
 - What can you conclude about the Outcomes based on Goals?
