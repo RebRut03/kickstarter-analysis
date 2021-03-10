@@ -1,4 +1,4 @@
-# **Kickstarter Campaign Funding Analysis - To Pay or Not to Play, That is the Questions?**
+# **Kickstarter Campaign Funding Analysis**
 
 ## **Overview of Project**
 
