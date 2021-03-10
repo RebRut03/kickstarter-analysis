@@ -57,5 +57,5 @@
    - Perhaps the inclusion of more historical data in the higher level goal campaigns, could create a more robust sample for the higher funding levels, possibly providing a more complete picture of that goal level. 
 
  - ### Additional Suggested Tables or Graphs
-   - As mentioned previously, in this project, we did not take into account the amount pledged or raised.  I believe this information would aid Louise in determining a direction.    
+   - As previously touched on, in this project, we did not take into account the amount pledged or raised.  I believe this information would aid Louise in determining a direction.    
    - I would recommend adding a box and whisker plot, to compare the distribution of campaign goals and the distribution of total amounts pledged.  This would illustrate central tendency, spread, and identification of outliers to see if the data is skewed in any way.
