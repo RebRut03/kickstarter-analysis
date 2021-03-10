@@ -39,18 +39,18 @@
 
  - ### Outcomes Based on Launch Date - Theater Campains
    - It is recommended to launch theater campaigns in May and June because these months show to be the highest success rates.
-    - May - 111 successful campaigns out of 166 total campains or 67% 
-    - June - 100 successful campaigns out of 153 total campaigns or 65%. 
+     - May - 111 successful campaigns out of 166 total campains or 67% 
+     - June - 100 successful campaigns out of 153 total campaigns or 65%. 
    - 47% of theater campaigns launched in December failed, followed closely by 43% in October, so it is not suggested to launch campaigns in these months.  
    - The cancellations are relatively low comparatively speaking, but the highest cancellation month is January at 7%.
   
  - ### Outcomes Based on Goals - Play Projects
-  - It appears that the lower monetary goals between Play campaigns with a goal of less than $1,000 were 75% successful.  Play campaigns with a goal between $1000 and $4,999    were 72% successful.  Also, of note,
+   - It appears that the lower monetary goals between Play campaigns with a goal of less than $1,000 were 75% successful.  Play campaigns with a goal between $1000 and $4,999    were 72% successful.  Also, of note,
 
  - ### Limitations in Dataset
-  - The plays on goal campaign und85% of the data was for campaigns under 10k.  There is less data from the higher spend campaigns which make make it hard to use this as a realiable sample of the poplution.  Only 14% of the data was for above 10k.  
+   - The plays on goal campaign und85% of the data was for campaigns under 10k.  There is less data from the higher spend campaigns which make make it hard to use this as a realiable sample of the poplution.  Only 14% of the data was for above 10k.  
 
  - ### Additional Suggested Tables or Graphs
-  - Compaire funding pledged or raised to get a full picture. For example
-  - Outliers box and whisker
-  - Spread
+   - Compaire funding pledged or raised to get a full picture. For example
+   - Outliers box and whisker
+   - Spread
