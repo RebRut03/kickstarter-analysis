@@ -8,7 +8,7 @@
 
  - ### Analysis of Theater Campaign Outcomes Based on Launch Date
    -  The line chart titled "Theater Outcomes Based on Launch Date" below illustrates how successful theater campaings were based on their launch date.
-   -  This chart was created with the kickstarter campaign data and includes data from 2010 to 2017.  The `Year()` function was utilized to convert the Date Created Conversion   colum to a year column.  
+   -  This chart was created by converting the kickstarter campaign data into a pivot table and includes data from 2010 to 2017.  The `Year()` function was utilized to convert the Date Created Conversion column in the kickstarter data to a year column.  
    -  On the x axis you'll notice, the years are grouped by month.  This was accomplished by grouping the dates in the pivot table by month and represents the campains' launch month.. 
    -  The y axis shows the number of successful, failed, and canceled theater campains. 
 
@@ -17,12 +17,16 @@
     [Kickstarter_Challenge](Kickstarter_Challenge.zip)
 
  - ### Analysis of Play Campaign Outcomes Based on Goals
-   - 
+   - The line chart titled "Outcomes Based on Goals" below illustrates how successful play projects were compared to differnt levels of funding goals.
+   - This chart was created by converting the kickstarter campaign data into a pivot table.  The `COUNTIFS()` function was used to populate the number of successful, failed and canceled play projects.  The `SUMS` function was used to come up with a total of the play projects based on the numbers returned by the `COUNTIFS()`.  A percentage was calculated based on the number of succesful, failed and canceled divided by the total projects per funding level. 
+   -  The x axis shows the differnt funding goal levels utilized for the sake of this analysis.  
+   -  The y axis shows the percentage successful, failed, and canceled play projects based on the goal funding levels.
    ![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
    For further details on how analysis was performed, please see source spreadsheet. 
    [Kickstarter_Challenge](Kickstarter_Challenge.zip)
 
  - ### Challenges and Difficulties Encountered
+   -   
 
 
 ## Results
