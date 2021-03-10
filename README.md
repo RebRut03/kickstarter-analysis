@@ -45,12 +45,19 @@
    - The cancellations are relatively low comparatively speaking, but the highest cancellation month is January at 7%.
   
  - ### Outcomes Based on Goals - Play Projects
-   - It appears that the lower monetary goals between Play campaigns with a goal of less than $1,000 were 75% successful.  Play campaigns with a goal between $1000 and $4,999    were 72% successful.  Also, of note,
+   - It appears that the lower funding goal ranges produce highter the success rates.  
+   - Play campaigns with a goal of less than $1,000 were 76% successful.  Play campaigns with a goal between $1000 and $4,999 were 73% successful.  The total funding raised between 0 and $4,999 totals approximately $1,170,000.
+   - Given the current data, my recomendation would be for Louise to focus her efforts on smaller fudning campaigns.  
+   - Play projects between 35000 and 44999 were 67% successful; however, there were only 9 project included in this funding level in the data and only approximatley $270,000 raised in this funding category.  
+   - One thing to note, the percentages are only calculated within each funding level and not over the entirety of the project.  For example Less than 1000 in funding is 75% successful, but it only takes into acccount fuding goals less than 1000 and only makes up 18% (186 of the 1043) of the total play projects.
 
  - ### Limitations in Dataset
-   - The plays on goal campaign und85% of the data was for campaigns under 10k.  There is less data from the higher spend campaigns which make make it hard to use this as a realiable sample of the poplution.  Only 14% of the data was for above 10k.  
+   - The plays on goal campaign und85% of the data was for campaigns under 10k.  There is less data from the higher funding campaigns which make make it hard to use this as a realiable sample of the poplution.  Only 15% of the data was for above 10k.  
 
  - ### Additional Suggested Tables or Graphs
-   - Compaire funding pledged or raised to get a full picture. For example
+   - Even though it was out of scope for this project, it is worth adding the funding amount pledged/raised to get a full picture of the success of the play projects instead of just relying on percentages.  
+     - For example, play campaigns with a goal of less than $1,000 were 76% successful.  Play campaigns with a goal between $1000 and $4,999 were 73% successful.  The total funding raised between 0 and $4,999 totals approximately $1,170,000.
+   - Given the current data, my recomendation would be for Louise to focus her efforts on smaller fudning campaigns.  
+   - Play projects between 35000 and 44999 were 67% successful; however, there were only 9 project included in this funding level in the data and only approximatley $270,000 raised in this funding category.  
    - Outliers box and whisker
    - Spread
