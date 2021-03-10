@@ -32,7 +32,7 @@
    - Being unfamiliar with `COUNTIFS` statements presented a challenge during the course of this analysis.  Specifically, I struggled with how to input the higher end of the goal range.    
      - For example, when trying to calculate, the number of successful, failed, and canceled play projects, I initially input `=COUNTIFS(Kickstarter!$D:$D, ">=1000" AND "<=4999" ,Kickstarter!$F:$F, "successful",Kickstarter!$R:$R, "plays")` including `AND` to combine the lower and higher end of the funding goal range, but I received an error.   
      - Ultimately, I used the following formula and received the appropriate calculation `=COUNTIFS(Kickstarter!$D:$D, ">=1000",Kickstarter!$F:$F, "successful",Kickstarter!$R:$R, "plays", Kickstarter!$D:$D, "<=4999")`.
-   - Also, if someone was attempting the Theater outcomes versus the launch date analysis and was unaware of the `YEAR()` function and the ability to group by months in the pivot table, that could create a roadblock when coming up with the with the final analysis results.
+   - Also, if someone was attempting the Theater outcomes versus the launch date analysis and was unaware of the `YEAR()` function and the ability to group by months in the pivot table, that could create a roadblock when coming up with the final analysis results.
 
 
 ## **Results**
