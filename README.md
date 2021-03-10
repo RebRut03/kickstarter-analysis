@@ -1,4 +1,4 @@
-# **Kickstarting with Excel**
+# **Kickstarter Campaign Funding Analysis - To Pay or Not to Play, That is the Questions?**
 
 ## **Overview of Project**
 
