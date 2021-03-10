@@ -47,7 +47,7 @@
  - ### Outcomes Based on Goals - Play Projects
    - It appears that the lower funding goal categories produced a high success rate.   
    - Play campaigns with a goal of less than $1,000 were 76% successful.  Play campaigns with a goal between $1,000 and $4,999 were 73% successful.  Though it was out of scope for this project, I calculated the total funding raised between $0 and $4,999 which totaled approximately $1,170,000.
-   - Play projects with funding goals between $35,000 and $44,999 were 67% successful which seems like a relatively high success rate comparatively speaking; however, there were only nine projects included in this goal funding level, and only approximately $270,000 was raised in this funding category.  
+   - Play projects with funding goals between $35,000 and $44,999 were 67% successful which seems like a relatively high success rate comparatively speaking; however, there were only nine projects included in this goal funding level, and only approximately $270,000 were raised in this funding category.  
    - Note:  The percentages are only calculated within each funding level and not over the entirety of the play projects population.  For example, for the goal level of “less than $1,000,” there was a 76% success rate; however, the plays included in that statistic only fall within the less than $1,000 goal range population.  This range only makes up 18% (186 of the 1043) of the total play projects.
    - Given the current information, my recommendation would be for Louise to focus her efforts on smaller funding goals that fall between $0 and $4,999.   
    
