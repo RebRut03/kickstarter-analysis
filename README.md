@@ -24,9 +24,9 @@
    -  The x axis shows the differnt funding goal levels utilized for the sake of this analysis.  
    -  The y axis shows the percentage successful, failed, and canceled play projects based on the goal funding levels.
    
-  ![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
-  For further details on how analysis was performed, please see source spreadsheet. 
-  [Kickstarter_Challenge](Kickstarter_Challenge.zip)
+   ![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
+   For further details on how analysis was performed, please see source spreadsheet. 
+   [Kickstarter_Challenge](Kickstarter_Challenge.zip)
 
  - ### Challenges and Difficulties Encountered
    - Being unfamiliar with `COUNTIFS` statements presented a challenge during the course of this analysis. Specifically, I struggled with how to input the higher end of the range.  
