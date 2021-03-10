@@ -6,7 +6,7 @@
    - The purpose of this project is to analyze kickstarter campaign data for an emerging playwright Louise. The goal of  this project is for Louise to gain a better understanding of different campaigns’ success rates in relation to their launch dates and their funding goals in order for her to make an informed decision on her next steps. 
    - In this report, I will focus on how successful theater campaigns were based on their launch dates, and I will also compare how play campaigns fared based on their associated funding goals.
 
-## Analysis and Challenges
+## **Analysis and Challenges**
 
  - ### Analysis of Theater Campaign Outcomes Based on Launch Date
    -  The line chart titled "Theater Outcomes Based on Launch Date" below illustrates how successful theater campaings were based on their launch date.
@@ -35,7 +35,7 @@
    - Also, if someone doing this was unaware of the `YEAR()` and the abiality to group by months in the pivot table for Theater outcomes vs the launch date, that could create issues coming up with the final anlaysis goal of the first exercise.
 
 
-## Results
+## **Results**
 
  - ### Outcomes Based on Launch Date - Theater Campains
    - It is recommended to launch theater campaigns in May and June because these months show to be the highest success rates.
