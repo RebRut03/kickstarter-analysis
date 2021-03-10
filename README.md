@@ -8,7 +8,7 @@
 
  - ### Analysis of Theater Campaign Outcomes Based on Launch Date
    -  The line chart titled "Theater Outcomes Based on Launch Date" below illustrates how successful theater campaings were based on their launch date.
-   -  This chart was created with the kickstarter campaign data and includes data from 2010 to 2017.  The 'Year() function was utilized to convert the Date Created Conversion   colum to a year column.  
+   -  This chart was created with the kickstarter campaign data and includes data from 2010 to 2017.  The `Year()` function was utilized to convert the Date Created Conversion   colum to a year column.  
    -  On the x axis you'll notice, the years are grouped by month.  This was accomplished by grouping the dates in the pivot table by month and represents the campains' launch month.. 
    -  The y axis shows the number of successful, failed, and canceled theater campains. 
 
