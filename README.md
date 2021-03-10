@@ -2,24 +2,24 @@
 
 ## **Overview of Project**
 
- - ### Purpose - The purpose of this project is to analyze crowdfunding campaign data for an emerging playwright Louise. The goal of  this project is for Louise to gain a better understanding of different campaigns’ success rates in relation to their launch dates and their funding goals in order for her to make an informed decision on her next steps.  In this report, I will focus on how successful theater campaigns were based on their launch dates, and I will also compare how play campaigns fared based on their associated funding goals.
+ - ### The purpose of this project is to analyze crowdfunding campaign data for an emerging playwright Louise. The goal of  this project is for Louise to gain a better understanding of different campaigns’ success rates in relation to their launch dates and their funding goals in order for her to make an informed decision on her next steps.  In this report, I will focus on how successful theater campaigns were based on their launch dates, and I will also compare how play campaigns fared based on their associated funding goals.
 
 ## Analysis and Challenges
 
  - ### Analysis of Theater Campaign Outcomes Based on Launch Date
-  ![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
+   ![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
 
  
 
-  For further details, please see full analysis source spreadsheet. 
-  [Kickstarter_Challenge](Kickstarter_Challenge.zip)
+    For further details, please see full analysis source spreadsheet. 
+    [Kickstarter_Challenge](Kickstarter_Challenge.zip)
 
  - ### Analysis of Play Campaign Outcomes Based on Goals
    ![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
 
  
-  For further details, please see full analysis source spreadsheet. 
-  [Kickstarter_Challenge](Kickstarter_Challenge.zip)
+   For further details, please see full analysis source spreadsheet. 
+   [Kickstarter_Challenge](Kickstarter_Challenge.zip)
 
  - ### Challenges and Difficulties Encountered
 
