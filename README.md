@@ -2,7 +2,9 @@
 
 ## **Overview of Project**
 
- - ### The purpose of this project is to analyze kickstarter campaign data for an emerging playwright Louise. The goal of  this project is for Louise to gain a better understanding of different campaigns’ success rates in relation to their launch dates and their funding goals in order for her to make an informed decision on her next steps.  In this report, I will focus on how successful theater campaigns were based on their launch dates, and I will also compare how play campaigns fared based on their associated funding goals.
+ - ### Project Purpose
+   - The purpose of this project is to analyze kickstarter campaign data for an emerging playwright Louise. The goal of  this project is for Louise to gain a better understanding of different campaigns’ success rates in relation to their launch dates and their funding goals in order for her to make an informed decision on her next steps. 
+   - In this report, I will focus on how successful theater campaigns were based on their launch dates, and I will also compare how play campaigns fared based on their associated funding goals.
 
 ## Analysis and Challenges
 
