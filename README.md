@@ -54,7 +54,7 @@
  - ### Limitations in Dataset
    - Regarding play campaigns and their outcomes based on goal levels, there is significantly less data from the higher goal campaigns compared to the lower goal campaigns.
    - Approximately 85% of the campaign goal data falls under $10,000; while only 15% of the campaign goal data was above $10,000.
-   - Perhaps the inclusion of more historical data in the higher level goal campaigns, could create a more robust sample for the higher funding levels, possibly providing a more complete picture of that goal level. 
+   - Perhaps the inclusion of more historical data in the higher goal level campaigns, could create a more robust sample for the higher funding levels, possibly providing a more complete picture of that goal level. 
 
  - ### Additional Suggested Tables or Graphs
    - As previously touched on, in this project, we did not take into account the amount pledged or raised.  I believe this information would aid Louise in determining a direction.    
